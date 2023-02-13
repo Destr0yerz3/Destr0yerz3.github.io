@@ -1,0 +1,19 @@
+:root {
+    margin: 0px;
+    }
+
+canvas{
+      position: fixed;
+      top: 0%;
+      left: 0%;
+      background-color: aqua;
+    }
+button{
+    position: relative;
+}
+h1{
+    position: relative;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
